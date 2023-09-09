@@ -1,0 +1,26 @@
+@media only screen and (min-width:0px)and(max-width:768px) {
+    #custom-navbar {
+        background-color: black !important;
+    }
+    #custom-navbar {
+        color: white !important;
+    }
+    .banner-img{
+        height: 450px;
+    }
+}
+@media (max-width: 565px) {
+    .banner-img {
+        height: 375px;
+    }
+    .hb {
+        background: #1f1f1f;
+        height: 705px;
+    }
+    .end_top{
+        padding: 0px;
+    }
+    #bg-image {
+        height: 440px;
+    }
+}
